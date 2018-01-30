@@ -3,3 +3,13 @@
 	padding-right: 2vw;
 	display: inline-block;
 }
+
+#bgd{ 
+			background-image: url(./img/bgd.jpg) ;
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+			background-size:  cover;
+			background-color: #999;
+  
+}
