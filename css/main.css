@@ -1,4 +1,4 @@
-.form-content {
+.form-content, .mktg-content {
 	padding-left: 2vw;
 	padding-right: 2vw;
 	display: inline-block;
@@ -12,4 +12,27 @@
 			background-size:  cover;
 			background-color: #999;
   
+}
+
+#logo{ 
+			
+			
+			background-image:  url('../img/ibm-logo.svg');
+			
+    		background-repeat: no-repeat;
+    		background-position: center; 
+			
+			
+  
+}
+
+.duo-blue {
+background-color: #0064ff;
+}
+
+.ibm-btn-blue-50.ibm-btn-pri {
+background: #0064ff;
+    border-color: #0064ff;
+
+
 }
