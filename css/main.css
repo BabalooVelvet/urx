@@ -5,13 +5,39 @@
 }
 
 #bgd{ 
-			background-image: url(../img/bgd-1600x900.jpg) ;
-			background-position: center center;
-			background-repeat:  no-repeat;
-			background-attachment: fixed;
-			background-size:  cover;
+			background: #222224;
+background: -moz-linear-gradient(left, #222224 0%, #212640 25%, #213179 50%, #203ba6 75%, #2046e1 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, #222224), color-stop(25%, #212640), color-stop(50%, #213179), color-stop(75%, #203ba6), color-stop(100%, #2046e1));
+background: -webkit-linear-gradient(left, #222224 0%, #212640 25%, #213179 50%, #203ba6 75%, #2046e1 100%);
+background: -o-linear-gradient(left, #222224 0%, #212640 25%, #213179 50%, #203ba6 75%, #2046e1 100%);
+background: -ms-linear-gradient(left, #222224 0%, #212640 25%, #213179 50%, #203ba6 75%, #2046e1 100%);
+background: linear-gradient(to right, #222224 0%, #212640 25%, #213179 50%, #203ba6 75%, #2046e1 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#222224', endColorstr='#2046e1', GradientType=1 );
 			
   
+}
+#bgd-green{ 
+background: -moz-radial-gradient(right bottom, ellipse cover, #4EC3BD 0%, #47B7B9 29%, #3B92AC 74%, #3585A2 100%); /* ff3.6+ */
+background: -webkit-gradient(radial, right bottom, 0px, center center, 100%, color-stop(0%, #4EC3BD), color-stop(29%, #47B7B9), color-stop(74%, #3B92AC), color-stop(100%, #3585A2)); /* safari4+,chrome */
+background: -webkit-radial-gradient(right bottom, ellipse cover, #4EC3BD 0%, #47B7B9 29%, #3B92AC 74%, #3585A2 100%); /* safari5.1+,chrome10+ */
+background: -o-radial-gradient(right bottom, ellipse cover, #4EC3BD 0%, #47B7B9 29%, #3B92AC 74%, #3585A2 100%); /* opera 11.10+ */
+background: -ms-radial-gradient(right bottom, ellipse cover, #4EC3BD 0%, #47B7B9 29%, #3B92AC 74%, #3585A2 100%); /* ie10+ */
+background: radial-gradient(ellipse at right bottom, #4EC3BD 0%, #47B7B9 29%, #3B92AC 74%, #3585A2 100%); /* w3c */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4EC3BD', endColorstr='#3585A2',GradientType=1 ); /* ie6-9 */
+}
+
+#bgd-maas360{ 
+			background: url(https://www.ibm.com/account/urx/images/maas360-bkg.svg) no-repeat rgb(29, 54, 73);
+}
+#bgd-grid{ 
+			
+			background: url(../img/bgd-grid.svg)  rgb(255, 255, 255);
+    		background-repeat: no-repeat;
+    		background-size: contain;
+    		background-position-y: 75%;
+    		height: 738px;
+    		width: 490px;
+			
 }
 
 #logo{ 
@@ -27,13 +53,5 @@
   
 }
 
-.duo-blue {
-background-color: #0064ff;
-}
-
-.ibm-btn-blue-50.ibm-btn-pri {
-background: #0064ff;
-    border-color: #0064ff;
 
 
-}
