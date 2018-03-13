@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="461px" height="809px" viewBox="0 0 461 809" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="490px" height="805px" viewBox="0 0 490 805" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
     <title>Bgd</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <radialGradient cx="0%" cy="0%" fx="0%" fy="0%" r="201.980352%" gradientTransform="translate(0.000000,0.000000),scale(1.000000,0.569839),rotate(60.323809),translate(-0.000000,-0.000000)" id="radialGradient-1">
+        <radialGradient cx="0%" cy="0%" fx="0%" fy="0%" r="192.327315%" gradientTransform="translate(0.000000,0.000000),scale(1.000000,0.608696),rotate(58.671307),translate(-0.000000,-0.000000)" id="radialGradient-1">
             <stop stop-color="#222224" offset="0%"></stop>
             <stop stop-color="#212B59" offset="46.181332%"></stop>
             <stop stop-color="#1F3CB2" offset="80.8217746%"></stop>
             <stop stop-color="#2044D8" offset="100%"></stop>
         </radialGradient>
-        <rect id="path-2" x="0" y="0" width="461" height="809"></rect>
+        <rect id="path-2" x="0" y="0" width="490" height="805"></rect>
     </defs>
-    <g id="Forms" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="1.0---Create-an-IBM-account" transform="translate(-139.000000, -95.000000)">
-            <g id="Bgd" transform="translate(139.000000, 95.000000)">
-                <g>
-                    <use fill="url(#radialGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
-                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="460" height="808"></rect>
-                </g>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bgd">
+            <g>
+                <use fill="url(#radialGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="489" height="804"></rect>
             </g>
         </g>
     </g>
