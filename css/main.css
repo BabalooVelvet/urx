@@ -25,7 +25,7 @@ background: radial-gradient(ellipse at right bottom, #222224 0%, #212B59 29%, #1
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#222224', endColorstr='#2044D8',GradientType=1 ); /* ie6-9 */
 }
 
-#bgd-blue{ 
+#bgd-blu{ 
 	background-image:  url('../img/blue-gradient-bgd.svg');
 			
     		background-repeat: no-repeat;
@@ -60,6 +60,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4EC3BD', end
     		width: 490px;
 			
 }
+url("https://babaloovelvet.github.io/urx/img/blue-gradient-bgd.svg") center top / cover no-repeat rgb(68, 222, 100)
+
+url("https://babaloovelvet.github.io/urx/img/blue-gradient-bgd.svg") center top / cover no-repeat rgb(61, 112, 178)
+
+0044de
 
 #logo{ 
 			

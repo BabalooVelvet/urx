@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="461px" height="721px" viewBox="0 0 461 721" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Bgd</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="461" height="721"></rect>
+        <ellipse id="path-3" cx="244.284279" cy="244.333333" rx="244.284279" ry="244.333333"></ellipse>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bgd-/-Partner">
+            <g id="Bgd">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use fill="#F3F3F3" xlink:href="#path-1"></use>
+                <g id="Oval-3-Copy" mask="url(#mask-2)">
+                    <g transform="translate(-173.000000, -4.000000)" id="Group-7">
+                        <g>
+                            <ellipse id="Oval-3-Copy" stroke="#C9DEFF" stroke-width="2" cx="573.715721" cy="488.666667" rx="244.284279" ry="244.333333"></ellipse>
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Oval-3" stroke="#87EDED" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
