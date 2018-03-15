@@ -13,16 +13,14 @@
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>
-                <use fill="#F3F3F3" xlink:href="#path-1"></use>
+                <g></g>
                 <g id="Oval-3-Copy" mask="url(#mask-2)">
-                    <g transform="translate(-173.000000, -4.000000)" id="Group-7">
-                        <g>
-                            <ellipse id="Oval-3-Copy" stroke="#C9DEFF" stroke-width="2" cx="573.715721" cy="488.666667" rx="244.284279" ry="244.333333"></ellipse>
-                            <mask id="mask-4" fill="white">
-                                <use xlink:href="#path-3"></use>
-                            </mask>
-                            <use id="Oval-3" stroke="#87EDED" xlink:href="#path-3"></use>
-                        </g>
+                    <g transform="translate(-173.000000, -4.000000)">
+                        <ellipse id="Oval-3-Copy" stroke="#C9DEFF" stroke-width="2" fill="none" cx="573.715721" cy="488.666667" rx="244.284279" ry="244.333333"></ellipse>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Oval-3" stroke="#87EDED" stroke-width="1" fill="none" xlink:href="#path-3"></use>
                     </g>
                 </g>
             </g>
